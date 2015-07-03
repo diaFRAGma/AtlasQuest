@@ -3705,7 +3705,7 @@ Inst29QAH = "3 Quests"
 
 --QUEST1 Allianz
 
-Inst29Quest1 = "1. Rettet Techbots Hirn! "
+Inst29Quest1 = "1. Rettet Techbots Hirn!"
 Inst29Quest1_Attain = "?"
 Inst29Quest1_Level = "26"
 Inst29Quest1_Aim = "Bringt Techbots Speicherkern zu T\195\188ftlermeister Overspark nach Ironforge."
