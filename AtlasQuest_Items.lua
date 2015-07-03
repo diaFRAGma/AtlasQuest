@@ -1144,17 +1144,25 @@ Inst7Quest5description2 = AQITEM_WAIST..AQITEM_LEATHER
 Inst7Quest5ID2 = "7000"
 
 -----------Quest6 A
-Inst7Quest6Rewardtext = GREEN..AQDiscription_REWARD..WHITE.."1"..AQDiscription_OR..WHITE.."2"
+Inst7Quest6Rewardtext = GREEN..AQDiscription_REWARD..WHITE.."1"
 --ITEM1
-Inst7Quest6ITC1 = Itemc3;
-Inst7Quest6textur1 = "INV_Misc_Orb_03"
-Inst7Quest6description1 = AQITEM_OFFHAND
-Inst7Quest6ID1 = "6898"
+Inst7Quest6ITC1 = Itemc4;
+Inst7Quest6textur1 = "INV_Hammer_05"
+Inst7Quest6description1 = AQITEM_TWOHAND..AQITEM_MACE
+Inst7Quest6ID1 = "6953"
+
+-----------Quest7 A
+Inst7Quest7Rewardtext = GREEN..AQDiscription_REWARD..WHITE.."1"..AQDiscription_OR..WHITE.."2"
 --ITEM1
-Inst7Quest6ITC2 = Itemc3;
-Inst7Quest6textur2 = "INV_Staff_09"
-Inst7Quest6description2 = AQITEM_STAFF
-Inst7Quest6ID2 = "15109"
+Inst7Quest7ITC1 = Itemc3;
+Inst7Quest7textur1 = "INV_Misc_Orb_03"
+Inst7Quest7description1 = AQITEM_OFFHAND
+Inst7Quest7ID1 = "6898"
+--ITEM1
+Inst7Quest7ITC2 = Itemc3;
+Inst7Quest7textur2 = "INV_Staff_09"
+Inst7Quest7description2 = AQITEM_STAFF
+Inst7Quest7ID2 = "15109"
 
 -------------------------------------
 --        + +   +   +++   ++   +++

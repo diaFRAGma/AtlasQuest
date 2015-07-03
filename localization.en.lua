@@ -1679,7 +1679,7 @@ Inst20Quest9PreQuest_HORDE = "true"
 --------------Inst7/BFD(6  quests)------------
 Inst7Story = "Situated along the Zoram Strand of Ashenvale, Blackfathom Depths was once a glorious temple dedicated to the night elves' moon-goddess, Elune. However, the great Sundering shattered the temple - sinking it beneath the waves of the Veiled Sea. There it remained untouched - until, drawn by its ancient power - the naga and satyr emerged to plumb its secrets. Legends hold that the ancient beast, Aku'mai, has taken up residence within the temple's ruins. Aku'mai, a favored pet of the primordial Old Gods, has preyed upon the area ever since. Drawn to Aku'mai's presence, the cult known as the Twilight's Hammer has also come to bask in the Old Gods' evil presence."
 Inst7Caption = "Blackfathom Depths"
-Inst7QAA = "6 Quests"
+Inst7QAA = "7 Quests"
 Inst7QAH = "5 Quests"
 
 --QUEST 1 Allianz
@@ -1750,19 +1750,34 @@ Inst7Quest5_Folgequest = "No"
 Inst7Quest5name1 = "Nimbus Boots"
 Inst7Quest5name2 = "Heartwood Girdle"
 
+--Quest 1 allianz (Paladin)
+
+Inst7Quest6 = "1. The Test of Righteousness (Paladin)"
+Inst7Quest6_Level = "22"
+Inst7Quest6_Attain = "20"
+Inst7Quest6_Aim = "Using Jordan's Weapon Notes, find some Whitestone Oak Lumber, Bailor's Refined Ore Shipment, Jordan's Smithing Hammer, and a Kor Gem, and return them to Jordan Stilwell in Ironforge."
+Inst7Quest6_Location = "Jordan Stilwell (Dun Morogh - Ironforge Entrance "..YELLOW.."52,36 "..WHITE..")"
+Inst7Quest6_Note = "To see the note pls klick on  "..YELLOW.."[The Test of Righteousness Information]"..WHITE.."."
+Inst7Quest6_Prequest = "Yes, The Tome of Valor -> The Test of Righteousness"
+Inst7Quest6_Folgequest = "Yes, The Test of Righteousness"
+Inst7Quest6PreQuest = "true"
+--
+Inst7Quest6name1 = "Verigan's Fist"
+Inst7Quest6_Page = {2, "Only Paladins can get this quest!\n1. You get the  Whitestone Oak Lumber from Goblin Woodcarvers in "..YELLOW.."[Deadmines]"..WHITE..".\n2. To get the Bailor's Refined Ore Shipment you musst talk to Bailor Stonehand (Loch Modan; 35,44 ). He gives you the 'Bailor's Ore Shipment' quest. You find the Jordan's Ore Shipment behind a tree at 71,21\n3. You get Jordan's Smithing Hammer in "..YELLOW.."[Shadowfang Keep]"..WHITE.." next to "..YELLOW.."[B]"..WHITE.." (the stables).\n4. To get a Kor Gem you have to go to Thundris Windweaver (Darkshore; 37,40) and do the 'Seeking the Kor Gem' quest. For this quest you musst kill Blackfathom oracles or priestesses before "..YELLOW.."[Blackfathom Deeps]"..WHITE..". They drop a corrupted Kor Gem. Thundris Windweaver clean it for you.", };
+
 --QUEST 6 Alliance (hexenmeister)
 
-Inst7Quest6 = "6. The Orb of Soran'ruk (Warlock)"
-Inst7Quest6_Attain = "21"
-Inst7Quest6_Level = "26"
-Inst7Quest6_Aim = "Find 3 Soran'ruk Fragments and 1 Large Soran'ruk Fragment and return them to Doan Karhan in the Barrens."
-Inst7Quest6_Location = "Doan Karhan (Barrens; "..YELLOW.."49,57"..WHITE..")"
-Inst7Quest6_Note = "Only Warlocks can get this Quest! You get the 3 Soran'ruk Fragmentes from Twilight-accolyte in "..YELLOW.."[Blackfathomdeeps]"..WHITE..". You get the Large Soran'ruk Fragment in "..YELLOW.."[Shadowfang Keep]"..WHITE.." from Shadowfang Darksouls."
-Inst7Quest6_Prequest = "No"
-Inst7Quest6_Folgequest = "No"
+Inst7Quest7 = "6. The Orb of Soran'ruk (Warlock)"
+Inst7Quest7_Attain = "21"
+Inst7Quest7_Level = "26"
+Inst7Quest7_Aim = "Find 3 Soran'ruk Fragments and 1 Large Soran'ruk Fragment and return them to Doan Karhan in the Barrens."
+Inst7Quest7_Location = "Doan Karhan (Barrens; "..YELLOW.."49,57"..WHITE..")"
+Inst7Quest7_Note = "Only Warlocks can get this Quest! You get the 3 Soran'ruk Fragmentes from Twilight-accolyte in "..YELLOW.."[Blackfathomdeeps]"..WHITE..". You get the Large Soran'ruk Fragment in "..YELLOW.."[Shadowfang Keep]"..WHITE.." from Shadowfang Darksouls."
+Inst7Quest7_Prequest = "No"
+Inst7Quest7_Folgequest = "No"
 --
-Inst7Quest6name1 = "Orb of Soran'ruk"
-Inst7Quest6name2 = "Staff of Soran'ruk"
+Inst7Quest7name1 = "Orb of Soran'ruk"
+Inst7Quest7name2 = "Staff of Soran'ruk"
 
 
 --QUEST 1 Horde

@@ -1632,7 +1632,7 @@ Inst20Quest9_HORDE_Folgequest = "Ja,  Schreckensross von Xoroth"
 --------------Inst7 (6  quests) /BFD------------
 Inst7Story = "Die Blackfathom-Tiefen in der N\195\164he des Zoramstrandes in Ashenvale waren vor langer Zeit ein Tempel, den die Nachtelfen zu Ehren ihrer Mondg\195\182ttin Elune erbaut hatten. Doch als die Welt gespalten wurde versank der Tempel in den Fluten des verh\195\188llten Meeres. Dort ruhte er lange Zeit ungest\195\182rt, bis eines Tages die Naga und Satyrn auftauchten, angezogen von seiner uralten Kraft, um die Geheimnisse des Tempels zu ergr\195\188nden. Legenden zufolge soll das uralte Wesen Aku'mai sich ebenfalls in den Ruinen niedergelassen haben. Das liebste Scho\195\159tier der urzeitlichen G\195\182tter ist schon oft auf Beutez\195\188gen in der Gegend gesichtet worden. Die Gegenwart von Aku'mai hat auch einen Kult mit Namen Twilight's Hammer angezogen, der sich die b\195\182sen M\195\164chte der Alten G\195\182tter zunutze machen will."
 Inst7Caption = "Die Blackfathom-Tiefen"
-Inst7QAA = "6 Quests"
+Inst7QAA = "7 Quests"
 Inst7QAH = "5 Quests"
 
 --QUEST 1 Allianz
@@ -1701,19 +1701,34 @@ Inst7Quest5_Folgequest = "Nein"
 Inst7Quest5name1 = "Nimbus-Stiefel"
 Inst7Quest5name2 = "Herzholzgurt"
 
---QUEST 6 Alliance (hexenmeister)
+--Quest 6 Alliance (Paladin)
 
-Inst7Quest6 = "6. Die Kugel von Soran'ruk (Hexenmeister)"
-Inst7Quest6_Attain = "21"
-Inst7Quest6_Level = "26"
-Inst7Quest6_Aim = "Sucht 3 Soran'ruk-Fragmente und 1 gro\195\159es Soran'ruk-Fragment und bringt sie zu Doan Karhan im Brachland."
-Inst7Quest6_Location = "Doan Karhan (Brachland; "..YELLOW.."49,57"..WHITE..")"
-Inst7Quest6_Note = "Diese Quest kann nur von Hexenmeistern angenommen werden! Die Soran'ruk-Fragmente werden von den Twilight-Akolyt in den "..YELLOW.."[Blackfothamtiefen]"..WHITE.." gedroppt. Das gro\195\159e Soran'ruk-Fragment bekommt man in "..YELLOW.."[Burg Shadowfang]"..WHITE.." bei Shadowfang-Dunkelseele."
-Inst7Quest6_Prequest = "Nein"
-Inst7Quest6_Folgequest = "Nein"
+Inst7Quest6 = "1. Die Pr\195\188fung der Rechtschaffenheit (Paladin)"
+Inst7Quest6_Level = "22"
+Inst7Quest6_Attain = "20"
+Inst7Quest6_Aim = "Sucht mit Jordans Waffennotizen etwas Wei\195\159steineichenholz, Bailors aufbereitete Erzlieferung, Jordans Schmiedehammer und einen Kor-Edelstein und bringt alles zusammen zu Jordan Stilwell in Ironforge."
+Inst7Quest6_Location = "Jordan Stilwell (Dun Morogh - Ironforge Eingang "..YELLOW.."52,36 "..WHITE..")"
+Inst7Quest6_Note = "Um die Notizen zu diesem Quest zu betrachten klick bitte auf "..YELLOW.."[Die Pr\195\188fung der Rechtschaffenheit Informationen]"..WHITE.."."
+Inst7Quest6_Prequest = "Ja, Der Foliant der Ehre -> Die Pr\195\188fung der Rechtschaffenheit"
+Inst7Quest6_Folgequest = "Ja, Die Pr\195\188fung der Rechtschaffenheit"
+Inst7Quest6PreQuest = "true"
 --
-Inst7Quest6name1 = "Kugel von Soran'ruk"
-Inst7Quest6name2 = "Stab von Soran'ruk"
+Inst7Quest6name1 = "Verigans Faust"
+Inst7Quest6_Page = {2, "Nur Paladine k\195\182nnen diese Quest bekommen!\n1. Das Wei\195\159steineichenholz bekommt man von Goblin-Holzschnitzer in den "..YELLOW.."[Todesminen]"..WHITE..".\n2. Um Bailors aufbereitete Erzlieferung zu bekommen muss man mit Bailor Stonehand (Loch Modan; 35,44 ) reden.  Er gibt einem die Quest 'Bailors Erzlieferung'. F\195\188r diese Quest muss man Jordans Erzlieferung finden. Sie ist bei 71,21 hinter einem Baum\n3. Jordans Schmiedehammer bekommt man in "..YELLOW.."[Burg Shadowfang]"..WHITE.." nahe Punkt "..YELLOW.."[B]"..WHITE.." (in den St\195\164llen).\n4. Den Kor-Edelstein bekommt man von Thundris Windweaver (Darkshore; 37,40) wenn man den Quest 'Suche nach dem Kor-Edelstein' macht. F\195\188r diese Quest muss man for den "..YELLOW.."[Blackfathomtiefen]"..WHITE.." Blackfathom-Gezeitenpriesterin oder Blackfathom-Orakel t\195\182ten. Diese droppen den Verderbten Kor-Edelstein welchen Thundris Windweaver reinigt.", };
+
+--QUEST 7 Alliance (hexenmeister)
+
+Inst7Quest7 = "6. Die Kugel von Soran'ruk (Hexenmeister)"
+Inst7Quest7_Attain = "21"
+Inst7Quest7_Level = "26"
+Inst7Quest7_Aim = "Sucht 3 Soran'ruk-Fragmente und 1 gro\195\159es Soran'ruk-Fragment und bringt sie zu Doan Karhan im Brachland."
+Inst7Quest7_Location = "Doan Karhan (Brachland; "..YELLOW.."49,57"..WHITE..")"
+Inst7Quest7_Note = "Diese Quest kann nur von Hexenmeistern angenommen werden! Die Soran'ruk-Fragmente werden von den Twilight-Akolyt in den "..YELLOW.."[Blackfothamtiefen]"..WHITE.." gedroppt. Das gro\195\159e Soran'ruk-Fragment bekommt man in "..YELLOW.."[Burg Shadowfang]"..WHITE.." bei Shadowfang-Dunkelseele."
+Inst7Quest7_Prequest = "Nein"
+Inst7Quest7_Folgequest = "Nein"
+--
+Inst7Quest7name1 = "Kugel von Soran'ruk"
+Inst7Quest7name2 = "Stab von Soran'ruk"
 
 
 --QUEST 1 Horde
@@ -2008,32 +2023,24 @@ Inst21Quest1_Location = "Jordan Stilwell (Dun Morogh - Ironforge Eingang "..YELL
 Inst21Quest1_Note = "Um die Notizen zu diesem Quest zu betrachten klick bitte auf "..YELLOW.."[Die Pr\195\188fung der Rechtschaffenheit Informationen]"..WHITE.."."
 Inst21Quest1_Prequest = "Ja, Der Foliant der Ehre -> Die Pr\195\188fung der Rechtschaffenheit"
 Inst21Quest1_Folgequest = "Ja, Die Pr\195\188fung der Rechtschaffenheit"
+Inst21Quest1PreQuest = "true"
 --
 Inst21Quest1name1 = "Verigans Faust"
-
-Inst21Quest2 = "Die Pr\195\188fung der Rechtschaffenheit Informationen"
-Inst21Quest2TEXT = "Nur Paladine k\195\182nnen diese Quest bekommen!\n1. Das Wei\195\159steineichenholz bekommt man von Goblin-Holzschnitzer in den "..YELLOW.."[Todesminen]"..WHITE..".\n2. Um Bailors aufbereitete Erzlieferung zu bekommen muss man mit Bailor Stonehand (Loch Modan; 35,44 ) reden.  Er gibt einem die Quest 'Bailors Erzlieferung'. F\195\188r diese Quest muss man Jordans Erzlieferung finden. Sie ist bei 71,21 hinter einem Baum\n3. Jordans Schmiedehammer bekommt man in "..YELLOW.."[Burg Shadowfang]"..WHITE.." nahe Punkt "..YELLOW.."[B]"..WHITE.." (in den St\195\164llen).\n4. Den Kor-Edelstein bekommt man von Thundris Windweaver (Darkshore; 37,40) wenn man den Quest 'Suche nach dem Kor-Edelstein' macht. F\195\188r diese Quest muss man for den "..YELLOW.."[Blackfathomtiefen]"..WHITE.." Blackfathom-Gezeitenpriesterin oder Blackfathom-Orakel t\195\182ten. Diese droppen den Verderbten Kor-Edelstein welchen Thundris Windweaver reinigt."
-Inst21Quest2_Level = "100"
-Inst21Quest2_Attain = ""
-Inst21Quest2_Aim = ""
-Inst21Quest2_Location = ""
-Inst21Quest2_Note = ""
-Inst21Quest2_Prequest = ""
-Inst21Quest2_Folgequest = ""
+Inst21Quest1_Page = {2, "Nur Paladine k\195\182nnen diese Quest bekommen!\n1. Das Wei\195\159steineichenholz bekommt man von Goblin-Holzschnitzer in den "..YELLOW.."[Todesminen]"..WHITE..".\n2. Um Bailors aufbereitete Erzlieferung zu bekommen muss man mit Bailor Stonehand (Loch Modan; 35,44 ) reden.  Er gibt einem die Quest 'Bailors Erzlieferung'. F\195\188r diese Quest muss man Jordans Erzlieferung finden. Sie ist bei 71,21 hinter einem Baum\n3. Jordans Schmiedehammer bekommt man in "..YELLOW.."[Burg Shadowfang]"..WHITE.." nahe Punkt "..YELLOW.."[B]"..WHITE.." (in den St\195\164llen).\n4. Den Kor-Edelstein bekommt man von Thundris Windweaver (Darkshore; 37,40) wenn man den Quest 'Suche nach dem Kor-Edelstein' macht. F\195\188r diese Quest muss man for den "..YELLOW.."[Blackfathomtiefen]"..WHITE.." Blackfathom-Gezeitenpriesterin oder Blackfathom-Orakel t\195\182ten. Diese droppen den Verderbten Kor-Edelstein welchen Thundris Windweaver reinigt.", };
 
 --QUEST 2 allaince (hexenmeister)
 
-Inst21Quest3 = "2. Die Kugel von Soran'ruk (Hexenmeister)"
-Inst21Quest3_Attain = "20"
-Inst21Quest3_Level = "25"
-Inst21Quest3_Aim = "Sucht 3 Soran'ruk-Fragmente und 1 gro\195\159es Soran'ruk-Fragment und bringt sie zu Doan Karhan im Brachland."
-Inst21Quest3_Location = "Doan Karhan (Brachland; "..YELLOW.."49,57"..WHITE..")"
-Inst21Quest3_Note = "Diese Quest kann nur von Hexenmeistern angenommen werden! Die Soran'ruk-Fragmente werden von den Twilight-Akolyt in den "..YELLOW.."[Blackfothamtiefen]"..WHITE.." gedroppt. Das gro\195\159e Soran'ruk-Fragment bekommt man in "..YELLOW.."[Burg Shadowfang]"..WHITE.." bei Shadowfang-Dunkelseele."
-Inst21Quest3_Prequest = "Nein"
-Inst21Quest3_Folgequest = "Nein"
+Inst21Quest2 = "2. Die Kugel von Soran'ruk (Hexenmeister)"
+Inst21Quest2_Attain = "20"
+Inst21Quest2_Level = "25"
+Inst21Quest2_Aim = "Sucht 3 Soran'ruk-Fragmente und 1 gro\195\159es Soran'ruk-Fragment und bringt sie zu Doan Karhan im Brachland."
+Inst21Quest2_Location = "Doan Karhan (Brachland; "..YELLOW.."49,57"..WHITE..")"
+Inst21Quest2_Note = "Diese Quest kann nur von Hexenmeistern angenommen werden! Die Soran'ruk-Fragmente werden von den Twilight-Akolyt in den "..YELLOW.."[Blackfothamtiefen]"..WHITE.." gedroppt. Das gro\195\159e Soran'ruk-Fragment bekommt man in "..YELLOW.."[Burg Shadowfang]"..WHITE.." bei Shadowfang-Dunkelseele."
+Inst21Quest2_Prequest = "Nein"
+Inst21Quest2_Folgequest = "Nein"
 --
-Inst21Quest3name1 = "Kugel von Soran'ruk"
-Inst21Quest3name2 = "Stab von Soran'ruk"
+Inst21Quest2name1 = "Kugel von Soran'ruk"
+Inst21Quest2name2 = "Stab von Soran'ruk"
 
 --QUEST 1 Horde
 
