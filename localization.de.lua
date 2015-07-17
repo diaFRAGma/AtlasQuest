@@ -2268,12 +2268,12 @@ Inst5Quest12name3 = "Valconische Sch\195\164rpe"
 
 --QUEST13 Allianz
 
-Inst5Quest13 = "13. Kharan Mighthammer"
+Inst5Quest13 = "13. Kharan Hammermacht"
 Inst5Quest13_Attain = "?"
 Inst5Quest13_Level = "59"
-Inst5Quest13_Aim = "Begebt Euch in die Blackrocktiefen und findet Kharan Mighthammer.\nDer K\195\182nig erw\195\164hnte, dass Kharan dort gefangen sei - vielleicht solltet Ihr nach einem Gef\195\164ngnis Ausschau halten."
+Inst5Quest13_Aim = "Begebt Euch in die Blackrocktiefen und findet Kharan Hammermacht.\nDer K\195\182nig erw\195\164hnte, dass Kharan dort gefangen sei - vielleicht solltet Ihr nach einem Gef\195\164ngnis Ausschau halten."
 Inst5Quest13_Location = "K\195\182nig Magni Bronzebeard (Ironforge "..YELLOW.."39,55"..WHITE..")"
-Inst5Quest13_Note = "Die Vorquest startet bei K\195\182nigliche Historikerin Archesonus (Ironforge; 38,55).\nKharan Mighthammer ist bei "..YELLOW.."[2]"..WHITE.."."
+Inst5Quest13_Note = "Die Vorquest startet bei K\195\182nigliche Historikerin Archesonus (Ironforge; 38,55).\nKharan Hammermacht ist bei "..YELLOW.."[2]"..WHITE.."."
 Inst5Quest13_Prequest = "Ja, Die glimmenden Ruinen von Thaurissan"
 Inst5Quest13_Folgequest = "Ja, Der \195\156berbringer schlechter Botschaften"
 
@@ -2486,7 +2486,7 @@ Inst5Quest14_HORDE_Attain = "51"
 Inst5Quest14_HORDE_Level = "59"
 Inst5Quest14_HORDE_Aim = "T\195\182tet Imperator Dagran Thaurissan und befreit Prinzessin Moira Bronzebeard von seinem b\195\182sen Zauber."
 Inst5Quest14_HORDE_Location = "Thrall (Orgrimmar; "..YELLOW.."31,37"..WHITE..")"
-Inst5Quest14_HORDE_Note = "Nachdem man mit Kharan Mighthammer und Thrall geredet hat bekommt man diese Quest.\nMan findet Imperator Dagran Thaurissan bei "..YELLOW.."[21]"..WHITE..". Die Prinzessin heilt Dagran w\195\164hrend des Kampfs, sie darf aber auf keinen Fall sterben sonst ist kann man den Quest nicht abschlie\195\159en! Versucht ihre Heilungzauber zu unterbrechen. (Die Belohung sind f\195\188r Ist die Prinzessin gerettet?)"
+Inst5Quest14_HORDE_Note = "Nachdem man mit Kharan Hammermacht und Thrall geredet hat bekommt man diese Quest.\nMan findet Imperator Dagran Thaurissan bei "..YELLOW.."[21]"..WHITE..". Die Prinzessin heilt Dagran w\195\164hrend des Kampfs, sie darf aber auf keinen Fall sterben sonst ist kann man den Quest nicht abschlie\195\159en! Versucht ihre Heilungzauber zu unterbrechen. (Die Belohung sind f\195\188r Ist die Prinzessin gerettet?)"
 Inst5Quest14_HORDE_Prequest = "Ja, Kommandant Gor'shak"
 Inst5Quest14_HORDE_Folgequest = "Ja, Ist die Prinzessin gerettet?"
 --
