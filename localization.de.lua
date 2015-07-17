@@ -2150,7 +2150,7 @@ Inst5Quest4 = "4. Hurley Pestatem"
 Inst5Quest4_Attain = "?"
 Inst5Quest4_Level = "55"
 Inst5Quest4_Aim = "Bringt Ragnar Donnerbr\195\164u in Kharanos das gestohlene Donnerbr\195\164urezept."
-Inst5Quest4_Location = "Ragnar Thunderbrew  (Dun Morogh "..YELLOW.."46,52"..WHITE..")"
+Inst5Quest4_Location = "Ragnar Donnerbr\195\164u  (Dun Morogh "..YELLOW.."46,52"..WHITE..")"
 Inst5Quest4_Note = "Die Vorquest gibt es bei Enohar Donnerbr\195\164u (Verw\195\188stete Lande; 61,18).\nDas Rezept gibt es bei einem der Wachen die erscheinen, wenn ihr F\195\164sser in der Taverne "..YELLOW.."[15]"..WHITE.." zerst\195\182rt."
 Inst5Quest4_Prequest = "Ja, Ragnar Donnerbr\195\164u"
 Inst5Quest4_Folgequest = "Nein"
@@ -2201,7 +2201,7 @@ Inst5Quest7name1 = "Eine schmuddelige G\195\188rteltasche"
 
 --QUEST8 Allianz
 
-Inst5Quest8 = "8. Marshal Windsor (Onyxia-Questreihe)"
+Inst5Quest8 = "8. Marshal Windsor"
 Inst5Quest8_Attain = "48"
 Inst5Quest8_Level = "54"
 Inst5Quest8_Aim = "Reist zum Blackrock im Nordwesten und dann weiter zu den Blackrocktiefen. Findet heraus, was aus Marshal Windsor geworden ist. Ihr erinnert Euch daran, dass der struppige John sagte, man h\195\164tte Windsor in ein Gef\195\164ngnis verschleppt."
@@ -2216,7 +2216,7 @@ Inst5Quest8name3 = "Scherwindgamaschen"
 
 --QUEST9 Allianz
 
-Inst5Quest9 = "8. Eine zusammengekn\195\188llte Notiz (Onyxia-Questreihe)"
+Inst5Quest9 = "8. Eine zusammengekn\195\188llte Notiz"
 Inst5Quest9_Attain = "51"
 Inst5Quest9_Level = "54"
 Inst5Quest9_Aim = "Soeben seid Ihr auf etwas gesto\195\159en, das Marshal Windsor mit Sicherheit sehr interessiert. Vielleicht besteht ja doch noch Hoffnung."
@@ -2227,7 +2227,7 @@ Inst5Quest9_Folgequest = "Ja, Ein Funken Hoffnung"
 
 --QUEST10 Allianz
 
-Inst5Quest10 = "10. Ein Funken Hoffnung (Onyxia-Questreihe)"
+Inst5Quest10 = "10. Ein Funken Hoffnung"
 Inst5Quest10_Attain = "51"
 Inst5Quest10_Level = "58"
 Inst5Quest10_Aim = "Holt Marshal Windsors verloren gegangene Informationen zur\195\188ck.\nMarshal Windsor glaubt, dass sich die Informationen in den H\195\164nden des Golemlords Argelmach und des Generals Zornesschmied befinden."
@@ -2238,7 +2238,7 @@ Inst5Quest10_Folgequest = "Ja, Gef\195\164ngnisausbruch!"
 
 --QUEST11 Allianz
 
-Inst5Quest11 = "11. Gef\195\164ngnisausbruch! (Onyxia-Questreihe)"
+Inst5Quest11 = "11. Gef\195\164ngnisausbruch!"
 Inst5Quest11_Attain = "54"
 Inst5Quest11_Level = "58"
 Inst5Quest11_Aim = "Helft Marshal Windsor, seine Ausr\195\188stung zur\195\188ckzuholen und seine Freunde zu befreien. Kehrt zu Marshal Windsor zur\195\188ck, wenn Ihr Erfolg hattet."
@@ -2253,7 +2253,7 @@ Inst5Quest11name3 = "Geschickte Kampfklinge"
 
 --QUEST12 Allianz
 
-Inst5Quest12 = "12. Eine Kostprobe der Flamme (Questreihe)"
+Inst5Quest12 = "12. Eine Kostprobe der Flamme"
 Inst5Quest12_Attain = "52"
 Inst5Quest12_Level = "58"
 Inst5Quest12_Aim = "Begebt Euch in die Blackrocktiefen und t\195\182tet Bael'Gar. "..YELLOW.."[...]"..WHITE.." Bringt die eingeschlossene feurige Essenz zu Cyrus Therepentous zur\195\188ck."
