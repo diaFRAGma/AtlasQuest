@@ -2146,7 +2146,7 @@ Inst5Quest3name2 = "Nagmaras Peitschen-G\195\188rtel"
 
 --QUEST4 Allianz
 
-Inst5Quest4 = "4. Hurley Pestatem"
+Inst5Quest4 = "4. Hurley Blackbreath"
 Inst5Quest4_Attain = "?"
 Inst5Quest4_Level = "55"
 Inst5Quest4_Aim = "Bringt Ragnar Donnerbr\195\164u in Kharanos das gestohlene Donnerbr\195\164urezept."
