@@ -814,7 +814,7 @@ Inst27Quest3name2 = "Edelsteinschiefer-Schulterst\195\188cke"
 
 --QUEST 4 Allianz
 
-Inst27Quest4 = "4. Nekrums Medaillon (Questreihe)"
+Inst27Quest4 = "4. Nekrums Medaillon"
 Inst27Quest4_Level = "47"
 Inst27Quest4_Attain = "40"
 Inst27Quest4_Aim = "Bringt Thadius Grimshade in den verw\195\188steten Landen Nekrums Medaillon."
