@@ -712,7 +712,7 @@ Inst3Quest1_HORDE_Folgequest = "Nein"
 
 --QUEST 2 Horde
 
-Inst3Quest2_HORDE = "2. Die Macht der Zerst\195\182rung..."
+Inst3Quest2_HORDE = "2. Die Macht zu Zerst\195\182ren..."
 Inst3Quest2_HORDE_Level = "16"
 Inst3Quest2_HORDE_Attain = "?"
 Inst3Quest2_HORDE_Aim = "Bringt die B\195\188cher 'Schattenzauber' und 'Zauberformeln aus dem Nether' zu Varimathras nach Undercity."
